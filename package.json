@@ -1,0 +1,27 @@
+{
+  "name": "my-grunt-hub",
+  "version": "0.1.0",
+  "description": "A grunt hub",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/user/repo.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.2"
+  },
+  "bugs": {
+    "url": "https://github.com/user/repo/issues"
+  },
+  "homepage": "https://github.com/user/repo#readme",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-hub": "^0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
